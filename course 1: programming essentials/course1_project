@@ -1,0 +1,9 @@
+Project Description: Working with Dates
+
+
+In many scripting tasks, you will need to work with dates.  You often have collections of data that come from different times and dates. 
+You may want to sort events based on when they occurred, aggregate information from a single day, calculate the time between two events, 
+or do other processing based on dates.
+
+In this project, you will write four functions to do simple processing on dates using Python's datetime module. 
+This will help familiarize you with writing Python functions, using modules in Python, and working with dates in Python.
